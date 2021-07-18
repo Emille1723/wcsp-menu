@@ -1,0 +1,204 @@
+{
+	"breakfast":[
+		{
+			"name" : "Fried Eggs & Toast",
+			"price" : 35.00,
+			"image" : "CSS/Images/Bg/breakfast/fried_eggs_toast.jpeg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Fruit, Nut & Granola Cocktail",
+			"price" : 40.00,
+			"image" : "CSS/Images/Bg/breakfast/fruits_nuts_granola.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Fruit Pancakes",
+			"price" : 45.00,
+			"image" : "CSS/Images/Bg/breakfast/fruits_pancakes.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Chocolate Covered Waffles",
+			"price" : 45.00,
+			"image" : "CSS/Images/Bg/breakfast/chocolate_covered_waffles.jpeg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Waffle Sundae",
+			"price" : 55.00,
+			"image" : "CSS/Images/Bg/breakfast/waffle_sunday.jpeg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		}
+	],
+	"lunch":[
+		{
+			"name" : "Tasty Italian Sandwich",
+			"price" : 45.00,
+			"image" : "CSS/Images/Bg/lunch/sandwich.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Succulent Beef Hanburger & Hash Browns",
+			"price" : 50.00,
+			"image" : "CSS/Images/Bg/lunch/hamburger.jpeg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Rucola Pasta Salad",
+			"price" : 55.00,
+			"image" : "CSS/Images/Bg/lunch/food-plate-rucola-salad.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Italian Inspired Jerked Chicken & Fries With Spinach",
+			"price" : 85.00,
+			"image" : "CSS/Images/Bg/lunch/food-plate-wood-restaurant.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Fried Fish in Chilli Pepper and Mint",
+			"price" : 100.00,
+			"image" : "CSS/Images/Bg/lunch/fried_fish_chilli_pepper_mint.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		}
+	],
+	"dinner":{
+		"appetizer":[
+			{
+				"name" : "Tasty Italian Sandwich",
+				"price" : 45.00,
+				"image" : "CSS/Images/Bg/dinner/sandwich.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			}
+		],
+		"main_course":[
+			{
+				"name" : "Oven Glazed Chicken & Veggies",
+				"price" : 155.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/oven_glazed_chicken.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Chicken Alfredo",
+				"price" : 155.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/chicken_alfredo.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Spaghetti & Meat Balls",
+				"price" : 160.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/Spaghetti.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Steak & Scalloped Potatoes",
+				"price" : 175.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/steak.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Grilled Salmon in Chilli & Lemon Rice",
+				"price" : 195.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/grilled_salmon.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			}
+		],
+		"dessert":[
+			{
+				"name" : "Chocolate Brownies",
+				"price" : 30.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/chocolate_brownies_cake.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Chocolate / Baileys Ice Cream",
+				"price" : 40.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/icecream.jpeg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Cream Horn with Cup Cake",
+				"price" : 45.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/cupcake_creamhorn.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Raspberry Cake",
+				"price" : 50.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/raspberry_cake_dessert.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			},
+			{
+				"name" : "Coffee Chocolate Dessert",
+				"price" : 50.00,
+				"image" : "CSS/Images/Bg/dinner/main_course/coffee_chocolate_dessert.jpg",
+				"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+			}
+		]
+	},
+	"beverages":[
+		{
+			"name" : "Beer",
+			"price" : 15.00,
+			"image" : "CSS/Images/Bg/beverages/beer.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Cappuccino",
+			"price" : 18.00,
+			"image" : "CSS/Images/Bg/beverages/cappuccino.jpeg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Turkish Tea",
+			"price" : 25.00,
+			"image" : "CSS/Images/Bg/beverages/turkish_tea.jpeg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Cocktail",
+			"price" : 35.00,
+			"image" : "CSS/Images/Bg/beverages/cocktail.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Red Wine",
+			"price" : 50.00,
+			"image" : "CSS/Images/Bg/beverages/red_wine.jpeg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		}
+	],
+	"salads":[
+		{
+			"name" : "Vegetable Salad",
+			"price" : 30.00,
+			"image" : "CSS/Images/Bg/salads/vegetable_salad.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Fruit Salad",
+			"price" : 35.00,
+			"image" : "CSS/Images/Bg/salads/fruit_salad.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Spinach Beetroot Salad",
+			"price" : 45.00,
+			"image" : "CSS/Images/Bg/salads/spinach_beetroot.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Mozzarella Cherry Tomato Salad",
+			"price" : 50.00,
+			"image" : "CSS/Images/Bg/salads/mozzarella_cherry_tomatoe.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		},
+		{
+			"name" : "Chicken Spinach Pommegranate Salad",
+			"price" : 60.00,
+			"image" : "CSS/Images/Bg/salads/chicken_spinach_pomergranate.jpg",
+			"desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+		}
+	]
+}

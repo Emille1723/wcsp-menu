@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type="text/css" href="CSS/style.css"/>
+		<link rel="shortcut icon" type="image/png" href="CSS/Images/Icons/Blue/menu.png">
+		<title>WCSP | Buzzo Restaurant Menu</title>
+	</head>
+	<body>
+		<button class="proceed proceed_inactive">proceed to our menu</button>
+		<span class="menu menu_inactive">
+			<span class="menu_header">
+				<span class="logo">buzzo italian restaurant</span>
+				<input type="search" class="search_bar" placeholder="Search meals, drinks, salads..." />
+				<span class="menu_header_controls_cont">
+					<button class="menu_header_controls options">
+						<span class="menu_header_controls_tag">view as grid</span>
+					</button>
+					<button class="menu_header_controls info">
+						<span class="menu_header_controls_tag">information</span>
+					</button>
+					<button class="menu_header_controls settings">
+						<span class="menu_header_controls_tag">preferences</span>
+					</button>
+					<button class="menu_header_controls cancel">
+						<span class="menu_header_controls_tag">cancel order</span>
+					</button>
+				</span>
+			</span>
+			<span class="menu_main">
+				<span class="menu_links_area">
+					<span class="menu_logo">
+						<span class="menu_logo_img">
+							<span class="menu_logo_img_active"></span>
+						</span>
+						<span class="user_name">Buzzo Italiano</span>
+						<span class="user_role">Customer</span>
+					</span>
+					<span class="menu_item_cont">
+						<button id="" class="menu_items breakfast_menu" data-menu-category="breakfast">
+							breakfast
+							<span class="menu_item_arrow"></span>
+						</button>
+						<button id="" class="menu_items lunch_menu"  data-menu-category="lunch">
+							lunch
+							<span class="menu_item_arrow"></span>
+						</button>
+						<button id="" class="menu_items dinner_menu" data-menu-category="dinner">
+							dinner
+							<span class="menu_item_arrow"></span>
+						</button>
+						<button id="" class="menu_items beverages_menu" data-menu-category="beverages">
+							beverages
+							<span class="menu_item_arrow"></span>
+						</button>
+						<button id="" class="menu_items salads_menu" data-menu-category="salads">
+							salads
+							<span class="menu_item_arrow"></span>
+						</button>
+						<button class="back_btn">back</button>
+					</span>
+				</span>
+				<span class="menu_content_area">
+					<span class="menu_content_area_slider">
+						<span class="menu_content_area_slider_element default_window">
+							<span class="menu_slider_border">
+								<span class="menu_slider"></span>
+							</span>
+						</span>
+						<span class="menu_content_area_slider_element sub_menu_main_window">
+							<span class="sub_menu_main"></span>
+							<span class="sub_menu_main_content">
+							</span>
+						</span>
+					</span>
+				</span>
+			</span>
+		</span>
+	</body>
+	<script src="JS/jquery-1.11.3.js"></script>
+	<script src="JS/angular.min.js"></script>
+	<script src="JS/index.js"></script>
+</html>
